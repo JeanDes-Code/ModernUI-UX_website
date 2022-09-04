@@ -38,7 +38,7 @@ const Hero = () => (
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
                 Notre équipe d'experts utilise une méthodologie pour identifier
                 les cartes de crédit les plus susceptibles de répondre à vos
-                besoins. Nous prennons en compte les taux bancaires annuels, les
+                besoins. Nous prenons en compte les taux bancaires annuels, les
                 frais annuels.
             </p>
         </div>
